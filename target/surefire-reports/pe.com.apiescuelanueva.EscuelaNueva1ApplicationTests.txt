@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: pe.com.apiescuelanueva.EscuelaNueva1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.308 s <<< FAILURE! - in pe.com.apiescuelanueva.EscuelaNueva1ApplicationTests
+pe.com.apiescuelanueva.EscuelaNueva1ApplicationTests  Time elapsed: 0.307 s  <<< ERROR!
+java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [pe.com.apiescuelanueva.EscuelaNueva1Application]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\Usuario\Documents\NetBeansProjects\EscuelaNueva1\target\classes\pe\com\apiescuelanueva\EscuelaNueva1Application.class], Generic bean: class [pe.com.apiescuelanueva.EscuelaNuevaApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\Usuario\Documents\NetBeansProjects\EscuelaNueva1\target\classes\pe\com\apiescuelanueva\EscuelaNuevaApplication.class]]
+
